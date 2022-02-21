@@ -1,0 +1,32 @@
+{
+  "name": "formatter-utilities-pack",
+  "displayName": "Formatter Utilities",
+  "description": "Collection of useful extensions for code standardization.",
+  "version": "0.0.1",
+  "publisher": "bruno-bontorin",
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#030518",
+    "theme": "dark"
+  },
+  "homepage": "git link",
+  "bugs": {
+    "url": "git link issues"
+  },
+  "engines": {
+    "vscode": "^1.64.0"
+  },
+  "keywords": [
+    "editor",
+    "formatter",
+    "organizer"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "editorconfig.editorconfig"
+  ]
+}
