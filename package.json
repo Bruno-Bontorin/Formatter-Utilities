@@ -9,9 +9,9 @@
     "color": "#030518",
     "theme": "dark"
   },
-  "homepage": "git link",
+  "homepage": "https://github.com/Bruno-Bontorin/Formatter-Utilities",
   "bugs": {
-    "url": "git link issues"
+    "url": "https://github.com/Bruno-Bontorin/Formatter-Utilities/issues"
   },
   "engines": {
     "vscode": "^1.64.0"
