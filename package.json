@@ -4,7 +4,7 @@
   "description": "Collection of useful extensions for code standardization.",
   "version": "0.0.1",
   "publisher": "bruno-bontorin",
-  "icon": "https://img.icons8.com/external-flaticons-flat-circular-flat-icons/64/000000/external-automation-automation-technology-flaticons-flat-circular-flat-icons-2.png",
+  "icon": "logo.png",
   "galleryBanner": {
     "color": "#030518",
     "theme": "dark"

@@ -14,4 +14,8 @@ Extension pack that contains only the required formatting extensions... for most
 
 #
 
+## Icon reference
+[Automation](https://icons8.com/icon/LBD1P7zAWDbd/automation) icon by [Icons8](https://icons8.com">)
+
+
 **Enjoy!**
