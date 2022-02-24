@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) for recomm
 
 ## [0.0.1 - 2022 - February - 26]
 
+#
+
 - Added [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - Added [TypeScript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero)
 - Added [SCSS Formatter](https://marketplace.visualstudio.com/items?itemName=sibiraj-s.vscode-scss-formatter)
