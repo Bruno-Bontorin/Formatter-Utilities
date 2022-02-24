@@ -6,8 +6,6 @@ Extension pack that contains only the required formatting extensions... for most
 
 ## Global Formatters
 
-#
-
 #### Prettier + EditorConfig + Eslint
 
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - This plugin attempts to override user/workspace settings with settings found in .prettierrc files.
@@ -19,8 +17,6 @@ Extension pack that contains only the required formatting extensions... for most
 #
 
 ## Languages Formatters
-
-#
 
 #### SCSS
 
